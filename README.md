@@ -27,7 +27,7 @@ I build games in **Unity** and **Godot**, and I'm a member of the university's *
 - **Tools:** Git, GitHub, Cursor, Claude Code
 - **Focus:** Gameplay programming, mobile development, game jams
 
-**Up next:** C++ and Unreal Engine 5, with a multiplayer project that recreates a hero's abilities from a competitive game.
+**Up next:** an online multiplayer card game in Unity.
 
 ---
 
